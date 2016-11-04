@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "5f640ec815c049268d87b252e8ed03e1"
+build_time: [531562195, 320081000]
+inputs:
+  "/Users/nick-xu/Desktop/littlenicky/Sources/arguments.swift": [9223372036854775807, 0]
+  "/Users/nick-xu/Desktop/littlenicky/Sources/main.swift": [9223372036854775807, 0]

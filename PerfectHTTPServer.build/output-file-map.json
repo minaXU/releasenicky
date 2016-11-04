@@ -1,0 +1,32 @@
+{
+  "": {
+    "dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTPServer.build/PerfectHTTPServer.d",
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTPServer.build/PerfectHTTPServer.o",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTPServer.build/master.swiftdeps"
+  },
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectHTTPServer-2.0.3/Sources/PerfectHTTPServer/HPACK.swift": {
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTPServer.build/HPACK.swift.o",
+    "swiftmodule": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTPServer.build/HPACK~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTPServer.build/HPACK.swiftdeps"
+  },
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectHTTPServer-2.0.3/Sources/PerfectHTTPServer/HTTP11Request.swift": {
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTPServer.build/HTTP11Request.swift.o",
+    "swiftmodule": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTPServer.build/HTTP11Request~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTPServer.build/HTTP11Request.swiftdeps"
+  },
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectHTTPServer-2.0.3/Sources/PerfectHTTPServer/HTTP11Response.swift": {
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTPServer.build/HTTP11Response.swift.o",
+    "swiftmodule": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTPServer.build/HTTP11Response~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTPServer.build/HTTP11Response.swiftdeps"
+  },
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectHTTPServer-2.0.3/Sources/PerfectHTTPServer/HTTP2.swift": {
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTPServer.build/HTTP2.swift.o",
+    "swiftmodule": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTPServer.build/HTTP2~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTPServer.build/HTTP2.swiftdeps"
+  },
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectHTTPServer-2.0.3/Sources/PerfectHTTPServer/HTTPServer.swift": {
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTPServer.build/HTTPServer.swift.o",
+    "swiftmodule": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTPServer.build/HTTPServer~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTPServer.build/HTTPServer.swiftdeps"
+  }
+}

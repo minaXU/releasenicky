@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "a15db5f3461390bce47c1090f31b0fdd"
+build_time: [531562164, 121404000]
+inputs:
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectThread-2.0.3/Sources/Threading.swift": [9223372036854775807, 0]
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectThread-2.0.3/Sources/ThreadQueue.swift": [9223372036854775807, 0]

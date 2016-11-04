@@ -1,0 +1,32 @@
+{
+  "": {
+    "dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectNet.build/PerfectNet.d",
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectNet.build/PerfectNet.o",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectNet.build/master.swiftdeps"
+  },
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectNet-2.0.3/Sources/Net.swift": {
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectNet.build/Net.swift.o",
+    "swiftmodule": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectNet.build/Net~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectNet.build/Net.swiftdeps"
+  },
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectNet-2.0.3/Sources/NetEvent.swift": {
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectNet.build/NetEvent.swift.o",
+    "swiftmodule": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectNet.build/NetEvent~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectNet.build/NetEvent.swiftdeps"
+  },
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectNet-2.0.3/Sources/NetNamedPipe.swift": {
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectNet.build/NetNamedPipe.swift.o",
+    "swiftmodule": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectNet.build/NetNamedPipe~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectNet.build/NetNamedPipe.swiftdeps"
+  },
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectNet-2.0.3/Sources/NetTCP.swift": {
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectNet.build/NetTCP.swift.o",
+    "swiftmodule": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectNet.build/NetTCP~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectNet.build/NetTCP.swiftdeps"
+  },
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectNet-2.0.3/Sources/NetTCPSSL.swift": {
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectNet.build/NetTCPSSL.swift.o",
+    "swiftmodule": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectNet.build/NetTCPSSL~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectNet.build/NetTCPSSL.swiftdeps"
+  }
+}

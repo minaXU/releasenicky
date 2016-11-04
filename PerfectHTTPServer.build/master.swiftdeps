@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "7b5c33b99439ead644ea48cdd422c393"
+build_time: [531562187, 474658000]
+inputs:
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectHTTPServer-2.0.3/Sources/PerfectHTTPServer/HPACK.swift": [9223372036854775807, 0]
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectHTTPServer-2.0.3/Sources/PerfectHTTPServer/HTTP11Request.swift": [9223372036854775807, 0]
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectHTTPServer-2.0.3/Sources/PerfectHTTPServer/HTTP11Response.swift": [9223372036854775807, 0]
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectHTTPServer-2.0.3/Sources/PerfectHTTPServer/HTTP2.swift": [9223372036854775807, 0]
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectHTTPServer-2.0.3/Sources/PerfectHTTPServer/HTTPServer.swift": [9223372036854775807, 0]

@@ -1,0 +1,14 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "4be201b7862e4cce05bd2955092ded55"
+build_time: [531562164, 121806000]
+inputs:
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectLib-2.0.2/Sources/PerfectLib/Bytes.swift": [9223372036854775807, 0]
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectLib-2.0.2/Sources/PerfectLib/Dir.swift": [9223372036854775807, 0]
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectLib-2.0.2/Sources/PerfectLib/File.swift": [9223372036854775807, 0]
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectLib-2.0.2/Sources/PerfectLib/JSONConvertible.swift": [9223372036854775807, 0]
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectLib-2.0.2/Sources/PerfectLib/Log.swift": [9223372036854775807, 0]
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectLib-2.0.2/Sources/PerfectLib/PerfectError.swift": [9223372036854775807, 0]
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectLib-2.0.2/Sources/PerfectLib/PerfectServer.swift": [9223372036854775807, 0]
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectLib-2.0.2/Sources/PerfectLib/SwiftCompatibility.swift": [9223372036854775807, 0]
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectLib-2.0.2/Sources/PerfectLib/SysProcess.swift": [9223372036854775807, 0]
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectLib-2.0.2/Sources/PerfectLib/Utilities.swift": [9223372036854775807, 0]

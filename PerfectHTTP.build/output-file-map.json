@@ -1,0 +1,52 @@
+{
+  "": {
+    "dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTP.build/PerfectHTTP.d",
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTP.build/PerfectHTTP.o",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTP.build/master.swiftdeps"
+  },
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectHTTP-2.0.5/Sources/HTTPFilter.swift": {
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTP.build/HTTPFilter.swift.o",
+    "swiftmodule": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTP.build/HTTPFilter~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTP.build/HTTPFilter.swiftdeps"
+  },
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectHTTP-2.0.5/Sources/HTTPHeaders.swift": {
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTP.build/HTTPHeaders.swift.o",
+    "swiftmodule": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTP.build/HTTPHeaders~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTP.build/HTTPHeaders.swiftdeps"
+  },
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectHTTP-2.0.5/Sources/HTTPMethod.swift": {
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTP.build/HTTPMethod.swift.o",
+    "swiftmodule": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTP.build/HTTPMethod~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTP.build/HTTPMethod.swiftdeps"
+  },
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectHTTP-2.0.5/Sources/HTTPRequest.swift": {
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTP.build/HTTPRequest.swift.o",
+    "swiftmodule": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTP.build/HTTPRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTP.build/HTTPRequest.swiftdeps"
+  },
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectHTTP-2.0.5/Sources/HTTPResponse.swift": {
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTP.build/HTTPResponse.swift.o",
+    "swiftmodule": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTP.build/HTTPResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTP.build/HTTPResponse.swiftdeps"
+  },
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectHTTP-2.0.5/Sources/MimeReader.swift": {
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTP.build/MimeReader.swift.o",
+    "swiftmodule": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTP.build/MimeReader~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTP.build/MimeReader.swiftdeps"
+  },
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectHTTP-2.0.5/Sources/MimeType.swift": {
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTP.build/MimeType.swift.o",
+    "swiftmodule": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTP.build/MimeType~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTP.build/MimeType.swiftdeps"
+  },
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectHTTP-2.0.5/Sources/Routing.swift": {
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTP.build/Routing.swift.o",
+    "swiftmodule": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTP.build/Routing~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTP.build/Routing.swiftdeps"
+  },
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectHTTP-2.0.5/Sources/StaticFileHandler.swift": {
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTP.build/StaticFileHandler.swift.o",
+    "swiftmodule": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTP.build/StaticFileHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectHTTP.build/StaticFileHandler.swiftdeps"
+  }
+}

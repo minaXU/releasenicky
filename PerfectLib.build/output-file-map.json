@@ -1,0 +1,57 @@
+{
+  "": {
+    "dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectLib.build/PerfectLib.d",
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectLib.build/PerfectLib.o",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectLib.build/master.swiftdeps"
+  },
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectLib-2.0.2/Sources/PerfectLib/Bytes.swift": {
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectLib.build/Bytes.swift.o",
+    "swiftmodule": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectLib.build/Bytes~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectLib.build/Bytes.swiftdeps"
+  },
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectLib-2.0.2/Sources/PerfectLib/Dir.swift": {
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectLib.build/Dir.swift.o",
+    "swiftmodule": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectLib.build/Dir~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectLib.build/Dir.swiftdeps"
+  },
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectLib-2.0.2/Sources/PerfectLib/File.swift": {
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectLib.build/File.swift.o",
+    "swiftmodule": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectLib.build/File~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectLib.build/File.swiftdeps"
+  },
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectLib-2.0.2/Sources/PerfectLib/JSONConvertible.swift": {
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectLib.build/JSONConvertible.swift.o",
+    "swiftmodule": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectLib.build/JSONConvertible~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectLib.build/JSONConvertible.swiftdeps"
+  },
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectLib-2.0.2/Sources/PerfectLib/Log.swift": {
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectLib.build/Log.swift.o",
+    "swiftmodule": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectLib.build/Log~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectLib.build/Log.swiftdeps"
+  },
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectLib-2.0.2/Sources/PerfectLib/PerfectError.swift": {
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectLib.build/PerfectError.swift.o",
+    "swiftmodule": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectLib.build/PerfectError~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectLib.build/PerfectError.swiftdeps"
+  },
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectLib-2.0.2/Sources/PerfectLib/PerfectServer.swift": {
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectLib.build/PerfectServer.swift.o",
+    "swiftmodule": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectLib.build/PerfectServer~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectLib.build/PerfectServer.swiftdeps"
+  },
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectLib-2.0.2/Sources/PerfectLib/SwiftCompatibility.swift": {
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectLib.build/SwiftCompatibility.swift.o",
+    "swiftmodule": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectLib.build/SwiftCompatibility~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectLib.build/SwiftCompatibility.swiftdeps"
+  },
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectLib-2.0.2/Sources/PerfectLib/SysProcess.swift": {
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectLib.build/SysProcess.swift.o",
+    "swiftmodule": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectLib.build/SysProcess~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectLib.build/SysProcess.swiftdeps"
+  },
+  "/Users/nick-xu/Desktop/littlenicky/Packages/PerfectLib-2.0.2/Sources/PerfectLib/Utilities.swift": {
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectLib.build/Utilities.swift.o",
+    "swiftmodule": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectLib.build/Utilities~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/PerfectLib.build/Utilities.swiftdeps"
+  }
+}

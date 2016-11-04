@@ -1,0 +1,17 @@
+{
+  "": {
+    "dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/littlenicky.build/littlenicky.d",
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/littlenicky.build/littlenicky.o",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/littlenicky.build/master.swiftdeps"
+  },
+  "/Users/nick-xu/Desktop/littlenicky/Sources/arguments.swift": {
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/littlenicky.build/arguments.swift.o",
+    "swiftmodule": "/Users/nick-xu/Desktop/littlenicky/.build/release/littlenicky.build/arguments~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/littlenicky.build/arguments.swiftdeps"
+  },
+  "/Users/nick-xu/Desktop/littlenicky/Sources/main.swift": {
+    "object": "/Users/nick-xu/Desktop/littlenicky/.build/release/littlenicky.build/main.swift.o",
+    "swiftmodule": "/Users/nick-xu/Desktop/littlenicky/.build/release/littlenicky.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick-xu/Desktop/littlenicky/.build/release/littlenicky.build/main.swiftdeps"
+  }
+}
